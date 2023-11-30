@@ -12,6 +12,7 @@ const {argv} = yargs(process.argv)
 // Create an object to store the counts
 const columnCounts = {};
 let countsArray = []
+let result = null
 
   // Create a readline interface to read the file line by line
   // And we create it globaly so we can access it from the functions
@@ -84,6 +85,20 @@ const carFirm = () =>{
 
 }
 
+function keepMostOccurredValues(data) {
+  return Object.entries(data).map(([id, cars]) => {
+    const mostOccurredBrand = Object.keys(cars).reduce((a, b) => (cars[a] > cars[b] ? a : b));
+
+    const newObject = {
+      [id]: {
+        [mostOccurredBrand]: cars[mostOccurredBrand]
+      }
+    };
+
+    return newObject;
+  });
+}
+
 const popularCarByFirm = () =>{
 
   rl.on('line', (line) => {
@@ -113,22 +128,15 @@ const popularCarByFirm = () =>{
       columnCounts[firstColumnValue] = {[secondColumnValue] : 1}
 
     }
-
-   // Conver object to array so we can sort
-    countsArray = Object.entries(columnCounts);
-    countsArray.forEach((item) => {
-    const innerObject = item[1];
-    const objectArray = Object.entries(innerObject);
-    objectArray.sort((a, b) => b[1] - a[1]);
-    item[1] = Object.fromEntries(objectArray);
-});
+    result = keepMostOccurredValues(columnCounts);
   
-  });
+});
   
   // Event listener for the end of the file
   rl.on('close', () => {
-    console.log(countsArray);
-    
+    //const obj = Object.fromEntries(countsArray)
+    console.log(result);
+    //console.dir(obj, { depth: null })
 
   });
   
