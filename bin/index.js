@@ -1,34 +1,36 @@
 #!/usr/bin/env node
+import fs from 'fs'
+import readline from 'readline'
+import yargs from 'yargs';
 
 console.log( "Hello!" );
 
-const fs = require('fs');
-const readline = require('readline');
 
 const filePath = 'car_orders.csv';
-
+const {argv} = yargs(process.argv)
 
 // Create an object to store the counts
 const columnCounts = {};
 let countsArray = []
 
-
-
-const companySort = () =>{
-
-    // Create a readline interface to read the file line by line
-const rl = readline.createInterface({
+  // Create a readline interface to read the file line by line
+  // And we create it globaly so we can access it from the functions
+  const rl = readline.createInterface({
     input: fs.createReadStream(filePath),
-    crlfDelay: Infinity, // Recognize both \r\n and \n as line endings
+    crlfDelay: Infinity,
   });
+
+// Created a seperate  function for this part to minimize repeated code
+const readCsvFile = async (colRow) =>{
   
   // Event listener for each line in the CSV file
   rl.on('line', (line) => {
-    // Split the line into an array of values
+
+    // Split the line when ; is met
     const row = line.split(';');
   
-    // Access the value of the first column
-    const firstColumnValue = row[0];
+    // Access the value of the given column
+    const firstColumnValue = row[colRow];
   
     // Check if the value exists in the counts object
     if (firstColumnValue in columnCounts) {
@@ -39,13 +41,19 @@ const rl = readline.createInterface({
       columnCounts[firstColumnValue] = 1;
     }
   });
+  }
+
+
+
+const companySort = async () =>{
+
+  await readCsvFile(0)
   
   // Event listener for the end of the file
   rl.on('close', () => {
-      // Convert the object to an array of key-value pairs
+   // Conver object to array so we can sort
     const countsArray = Object.entries(columnCounts);
     const sortedArrayAscending = countsArray.slice().sort((a, b) => b[1] - a[1]);
-    const newObj = {...sortedArrayAscending}
     console.table(sortedArrayAscending);
   });
   
@@ -57,37 +65,16 @@ const rl = readline.createInterface({
 
 const carFirm = () =>{
 
-        // Create a readline interface to read the file line by line
-const rl = readline.createInterface({
-    input: fs.createReadStream(filePath),
-    crlfDelay: Infinity, // Recognize both \r\n and \n as line endings
-  });
-  
-  // Event listener for each line in the CSV file
-  rl.on('line', (line) => {
-    // Split the line into an array of values
-    const row = line.split(';');
-  
-    // Access the value of the first column
-    const firstColumnValue = row[2];
-  
-    // Check if the value exists in the counts object
-    if (firstColumnValue in columnCounts) {
-      // If it exists, increment the count
-      columnCounts[firstColumnValue]++;
-    } else {
-      // If it doesn't exist, initialize the count to 1
-      columnCounts[firstColumnValue] = 1;
-    }
-  });
+  readCsvFile(2)
   
   // Event listener for the end of the file
   rl.on('close', () => {
-      // Convert the object to an array of key-value pairs
+
+    // Conver object to array so we can sort
     const countsArray = Object.entries(columnCounts);
     const sortedArrayAscending = countsArray.slice().sort((a, b) => b[1] - a[1]);
-    const newObj = {...sortedArrayAscending}
     console.table(sortedArrayAscending);
+    
   });
   
   // Event listener for errors
@@ -98,44 +85,36 @@ const rl = readline.createInterface({
 }
 
 const popularCarByFirm = () =>{
-            // Create a readline interface to read the file line by line
-const rl = readline.createInterface({
-    input: fs.createReadStream(filePath),
-    crlfDelay: Infinity, // Recognize both \r\n and \n as line endings
-  });
-  
-  // Event listener for each line in the CSV file
+
   rl.on('line', (line) => {
     
-    // Split the line into an array of values
+    // Split the line when ; is met
     const row = line.split(';')
   
-    // Access the value of the first column
+    // Access the value of the first column and the third column
     const firstColumnValue = row[0]
     const secondColumnValue = row[2]
-    
+    // Check if the id exists
     if(firstColumnValue in columnCounts){
-
+      //Then we check if car exists
         if(secondColumnValue in columnCounts[firstColumnValue]){
-            //columnCounts[secondColumnValue]++
-            //columnCounts[firstColumnValue][secondColumnValue]++
-            columnCounts[firstColumnValue][secondColumnValue] = columnCounts[firstColumnValue][secondColumnValue]+1
+          // If it exists then increment
+          columnCounts[firstColumnValue][secondColumnValue] = columnCounts[firstColumnValue][secondColumnValue]+1
             
         }
         else{
+          // If it doesn't exist, initialize the count to 1
           columnCounts[firstColumnValue][secondColumnValue] = 1
-          //columnCounts[firstColumnValue][secondColumnValue]++
-            //columnCounts[firstColumnValue].push(secondColumnValue)
+
         }
     }
     else{
-        
-        columnCounts[firstColumnValue] = {[secondColumnValue] : 1}
-        //columnCounts[firstColumnValue] = [secondColumnValue]
-        //columnCounts[firstColumnValue][secondColumnValue] = 1
+      // If id doesn't exist then add it
+      columnCounts[firstColumnValue] = {[secondColumnValue] : 1}
+
     }
 
-    // Sort the array based on the values of the inner objects
+   // Conver object to array so we can sort
     countsArray = Object.entries(columnCounts);
     countsArray.forEach((item) => {
     const innerObject = item[1];
@@ -143,18 +122,6 @@ const rl = readline.createInterface({
     objectArray.sort((a, b) => b[1] - a[1]);
     item[1] = Object.fromEntries(objectArray);
 });
-
-
-
-    
-/////////////////////////////////////////////////////
-      //const countsArray = Object.entries(columnCounts);
-      //const sortedArrayAscending = countsArray.slice().sort((a, b) => b[1].firstColumnValue - a[1].firstColumnValue);
-      //console.log(sortedArrayAscending)
-      
-    
-    //columnCounts.car = secondColumnValue
-    //console.log(columnCounts[firstColumnValue][secondColumnValue])
   
   });
   
@@ -171,6 +138,25 @@ const rl = readline.createInterface({
   });
 }
 
-//popularCarByFirm()
-//carFirm()
-companySort()
+
+const switchState = (answer) =>{
+
+  switch (answer) {
+    case 'companies':
+      companySort()
+      break;
+    
+    case "car":
+      carFirm()
+      break;
+
+    case "popular":
+      popularCarByFirm()
+      break;
+  
+    default:
+      break;
+  }
+}
+
+switchState(argv.answer)

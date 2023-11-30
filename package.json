@@ -14,5 +14,6 @@
   },
   "dependencies": {
     "yargs": "13.2"
-  }
+  },
+  "type": "module"
 }
