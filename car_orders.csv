@@ -1,0 +1,1001 @@
+company_id;region;car;order_date
+21;V�stra G�talands l�n;Seat;29/04/2018
+71;J�nk�pings l�n;Daihatsu;21/07/2016
+31;G�vleborgs l�n;RAM Trucks;21/11/2010
+66;J�nk�pings l�n;Chrysler;06/10/2016
+18;V�stra G�talands l�n;Mahindra and Mahindra;31/10/2010
+73;Dalarnas l�n;Skoda;12/06/2012
+39;Stockholms l�n;Ferrari;28/10/2015
+12;V�stra G�talands l�n;General Motors;21/05/2017
+20;V�stra G�talands l�n;Vauxhall;01/08/2016
+32;Dalarnas l�n;Honda;10/12/2017
+45;Stockholms l�n;GMC;16/06/2013
+34;J�nk�pings l�n;Chrysler;04/08/2012
+10;Stockholms l�n;GMC;27/08/2012
+86;Stockholms l�n;BMW;02/08/2011
+18;Stockholms l�n;Infiniti;08/12/2011
+14;V�stra G�talands l�n;Volvo;11/10/2017
+92;Stockholms l�n;Volvo;30/11/2012
+60;Stockholms l�n;JLR;04/12/2017
+98;Dalarnas l�n;JLR;29/03/2012
+48;Stockholms l�n;Daihatsu;01/12/2015
+79;V�stra G�talands l�n;Acura;23/09/2011
+58;V�stra G�talands l�n;Acura;23/08/2015
+36;�sterg�tlands l�n;Daihatsu;20/02/2014
+98;J�nk�pings l�n;Acura;11/11/2013
+71;�sterg�tlands l�n;Subaru;23/01/2011
+24;V�stra G�talands l�n;Ferrari;02/11/2011
+6;�sterg�tlands l�n;Audi;17/06/2013
+18;V�stra G�talands l�n;Porsche;04/12/2011
+56;V�stra G�talands l�n;Tata Motors;03/11/2015
+50;V�stra G�talands l�n;Dongfeng Motor;09/03/2012
+25;�sterg�tlands l�n;Skoda;09/06/2010
+22;Stockholms l�n;Mercedes-Benz;07/02/2010
+34;Stockholms l�n;Ferrari;23/04/2017
+46;V�stra G�talands l�n;Buick;14/03/2014
+88;J�nk�pings l�n;Volkswagen;17/05/2012
+65;V�stra G�talands l�n;Lincoln;20/05/2011
+60;V�stra G�talands l�n;Chrysler;29/01/2015
+44;V�stra G�talands l�n;Skoda;20/12/2015
+89;Stockholms l�n;Infiniti;02/09/2018
+13;Stockholms l�n;Lincoln;14/04/2010
+32;�sterg�tlands l�n;Subaru;11/12/2013
+25;�sterg�tlands l�n;Smart;31/01/2016
+20;Stockholms l�n;FAW;29/06/2018
+16;V�stra G�talands l�n;Volvo;24/07/2012
+39;Dalarnas l�n;Honda;04/05/2014
+95;J�nk�pings l�n;Chevrolet;04/02/2016
+52;Stockholms l�n;General Motors;03/07/2012
+57;Stockholms l�n;Smart;19/05/2016
+42;G�vleborgs l�n;Nissan;30/09/2011
+73;J�nk�pings l�n;Renault;08/09/2016
+80;J�nk�pings l�n;Hyundai Motors;20/02/2016
+49;V�stra G�talands l�n;FAW;31/03/2011
+63;Stockholms l�n;Infiniti;03/11/2011
+100;Stockholms l�n;Volvo;30/11/2012
+30;J�nk�pings l�n;Honda;12/03/2018
+82;V�stra G�talands l�n;Vauxhall;05/04/2011
+22;V�stra G�talands l�n;Ford;31/12/2016
+42;�sterg�tlands l�n;Suzuki;01/08/2018
+20;Stockholms l�n;JLR;11/10/2014
+31;Dalarnas l�n;Lincoln;20/03/2011
+85;V�stra G�talands l�n;Kia Motors;17/03/2018
+18;V�stra G�talands l�n;Dongfeng Motor;11/08/2017
+44;Stockholms l�n;Mazda;09/02/2011
+52;Stockholms l�n;MINI;29/01/2016
+46;V�stra G�talands l�n;Daimler;10/11/2011
+36;�sterg�tlands l�n;Acura;05/07/2016
+18;Stockholms l�n;Lexus;04/03/2018
+58;Stockholms l�n;Citro�n;20/08/2018
+29;Stockholms l�n;Acura;28/12/2011
+99;�sterg�tlands l�n;GMC;29/12/2015
+80;J�nk�pings l�n;Dacia;13/12/2014
+9;V�stra G�talands l�n;Skoda;13/10/2013
+77;Stockholms l�n;Daihatsu;06/06/2010
+67;V�stra G�talands l�n;Tata Motors;17/08/2016
+73;G�vleborgs l�n;Hyundai Motors;21/08/2011
+59;Stockholms l�n;Audi;19/12/2011
+88;Stockholms l�n;Dodge;20/12/2010
+85;V�stra G�talands l�n;Dacia;07/05/2010
+84;Stockholms l�n;Subaru;06/01/2017
+94;J�nk�pings l�n;Buick;13/08/2016
+62;�sterg�tlands l�n;Lexus;11/10/2010
+12;J�nk�pings l�n;Peugeot;01/08/2015
+39;Stockholms l�n;Lincoln;19/02/2013
+20;G�vleborgs l�n;Porsche;28/08/2012
+78;Dalarnas l�n;Mazda;23/11/2011
+88;V�stra G�talands l�n;Mitsubishi Motors;01/05/2010
+94;G�vleborgs l�n;Buick;19/11/2010
+90;G�vleborgs l�n;Volvo;01/07/2015
+45;Stockholms l�n;Subaru;04/05/2017
+75;G�vleborgs l�n;Lincoln;31/03/2012
+92;�sterg�tlands l�n;Ford;08/01/2010
+60;Stockholms l�n;Maruti Suzuki;27/10/2018
+24;V�stra G�talands l�n;Volvo;06/12/2017
+57;Stockholms l�n;Porsche;23/08/2017
+17;Stockholms l�n;BMW;30/05/2015
+42;Stockholms l�n;JLR;26/11/2016
+94;Stockholms l�n;Tata Motors;04/04/2017
+56;V�stra G�talands l�n;Mercedes-Benz;16/06/2014
+21;V�stra G�talands l�n;Seat;04/07/2013
+79;Stockholms l�n;Buick;25/08/2017
+89;V�stra G�talands l�n;Kenworth;23/09/2016
+22;Dalarnas l�n;Fiat;23/05/2016
+39;Dalarnas l�n;General Motors;30/08/2014
+94;Stockholms l�n;Renault;04/09/2010
+6;Stockholms l�n;Audi;02/09/2016
+78;Stockholms l�n;Dodge;01/06/2018
+14;�sterg�tlands l�n;Smart;10/08/2015
+63;V�stra G�talands l�n;Chevrolet;01/04/2017
+98;V�stra G�talands l�n;Lexus;18/10/2016
+56;V�stra G�talands l�n;Kenworth;07/06/2015
+54;V�stra G�talands l�n;Mazda;01/12/2017
+58;J�nk�pings l�n;Mercedes-Benz;19/11/2013
+25;Stockholms l�n;General Motors;23/02/2016
+91;Stockholms l�n;Volvo;10/10/2011
+85;Stockholms l�n;Dodge;07/05/2014
+83;Dalarnas l�n;Chevrolet;25/03/2018
+65;V�stra G�talands l�n;Dacia;19/03/2010
+15;�sterg�tlands l�n;Honda;16/09/2014
+30;J�nk�pings l�n;Dongfeng Motor;21/07/2012
+23;Stockholms l�n;Fiat;28/05/2010
+39;Stockholms l�n;Mazda;13/09/2014
+52;�sterg�tlands l�n;General Motors;06/07/2010
+82;J�nk�pings l�n;JLR;22/06/2010
+90;V�stra G�talands l�n;Fiat;14/02/2017
+11;G�vleborgs l�n;RAM Trucks;22/07/2014
+29;J�nk�pings l�n;Volkswagen;29/11/2012
+86;�sterg�tlands l�n;Subaru;06/08/2011
+47;Dalarnas l�n;Daimler;16/10/2010
+12;�sterg�tlands l�n;Isuzu;06/05/2016
+43;G�vleborgs l�n;JLR;11/07/2010
+78;Dalarnas l�n;Mazda;28/01/2014
+71;J�nk�pings l�n;Peugeot;06/08/2013
+7;Stockholms l�n;Toyota;23/08/2017
+71;J�nk�pings l�n;Mahindra and Mahindra;28/01/2013
+34;Stockholms l�n;Toyota;22/04/2011
+97;J�nk�pings l�n;Kenworth;14/10/2011
+75;Stockholms l�n;FAW;15/04/2014
+50;Stockholms l�n;Chrysler;28/11/2014
+44;V�stra G�talands l�n;JLR;20/10/2016
+36;Stockholms l�n;Chevrolet;01/03/2011
+6;Stockholms l�n;Daimler;22/11/2010
+66;V�stra G�talands l�n;Chrysler;17/02/2010
+92;Stockholms l�n;Maruti Suzuki;21/06/2011
+6;�sterg�tlands l�n;Ford;04/08/2015
+64;J�nk�pings l�n;Toyota;08/06/2018
+48;V�stra G�talands l�n;Mahindra and Mahindra;30/09/2014
+34;V�stra G�talands l�n;Audi;16/12/2010
+44;Dalarnas l�n;Honda;01/12/2010
+85;Stockholms l�n;Mitsubishi Motors;30/10/2017
+66;Stockholms l�n;Dongfeng Motor;26/05/2011
+39;J�nk�pings l�n;Suzuki;03/02/2016
+27;Stockholms l�n;Mazda;29/09/2011
+58;V�stra G�talands l�n;Mazda;22/11/2013
+82;Stockholms l�n;Nissan;29/12/2018
+36;�sterg�tlands l�n;Citro�n;15/04/2012
+9;J�nk�pings l�n;Chrysler;26/12/2016
+40;J�nk�pings l�n;Porsche;29/03/2014
+49;Stockholms l�n;Kenworth;11/09/2016
+3;Stockholms l�n;Jeep;29/06/2015
+17;�sterg�tlands l�n;RAM Trucks;17/01/2017
+41;V�stra G�talands l�n;Mahindra and Mahindra;04/03/2010
+85;Stockholms l�n;Daimler;06/04/2010
+20;V�stra G�talands l�n;Lexus;07/05/2015
+92;Stockholms l�n;Volkswagen;14/06/2015
+95;Stockholms l�n;Kia Motors;07/05/2017
+9;�sterg�tlands l�n;Acura;10/09/2018
+58;G�vleborgs l�n;Subaru;08/07/2017
+18;Dalarnas l�n;Daimler;13/11/2014
+44;Stockholms l�n;Ford;04/12/2012
+80;J�nk�pings l�n;Daihatsu;10/09/2016
+71;Stockholms l�n;Lincoln;07/07/2015
+6;Stockholms l�n;Cadillac;21/04/2014
+25;�sterg�tlands l�n;Chrysler;28/01/2013
+45;Stockholms l�n;Peugeot;28/10/2016
+96;Stockholms l�n;Jeep;25/05/2016
+91;Stockholms l�n;Suzuki;05/08/2013
+54;Dalarnas l�n;FAW;22/10/2018
+20;Stockholms l�n;Citro�n;31/10/2018
+22;�sterg�tlands l�n;MINI;25/04/2016
+60;V�stra G�talands l�n;Isuzu;24/02/2015
+98;V�stra G�talands l�n;Dacia;07/10/2016
+77;Stockholms l�n;Lincoln;06/03/2010
+41;Stockholms l�n;Subaru;29/10/2011
+37;V�stra G�talands l�n;Isuzu;26/04/2016
+58;�sterg�tlands l�n;Nissan;12/07/2012
+25;J�nk�pings l�n;General Motors;02/05/2011
+31;Stockholms l�n;Cadillac;10/02/2011
+61;Stockholms l�n;Buick;06/11/2015
+78;Dalarnas l�n;Chevrolet;20/06/2018
+1;Dalarnas l�n;Audi;10/12/2016
+81;�sterg�tlands l�n;GMC;16/12/2015
+84;Stockholms l�n;Mahindra and Mahindra;03/06/2015
+8;Stockholms l�n;GMC;10/02/2010
+69;G�vleborgs l�n;Infiniti;10/04/2014
+35;�sterg�tlands l�n;Mitsubishi Motors;20/04/2010
+76;Stockholms l�n;Lexus;04/05/2018
+44;V�stra G�talands l�n;Dacia;31/10/2016
+30;V�stra G�talands l�n;Audi;07/05/2012
+91;Stockholms l�n;Smart;29/07/2017
+77;Stockholms l�n;MINI;12/10/2010
+38;V�stra G�talands l�n;Audi;20/10/2013
+57;Stockholms l�n;Ford;27/01/2010
+75;�sterg�tlands l�n;Nissan;28/02/2013
+93;Stockholms l�n;Vauxhall;04/05/2016
+67;J�nk�pings l�n;Audi;18/09/2013
+52;�sterg�tlands l�n;Dacia;04/01/2012
+32;J�nk�pings l�n;Isuzu;30/04/2017
+47;V�stra G�talands l�n;Audi;13/11/2017
+63;G�vleborgs l�n;Volvo;30/05/2016
+42;V�stra G�talands l�n;MINI;11/12/2011
+48;Stockholms l�n;Ford;31/07/2014
+16;Stockholms l�n;Ferrari;03/11/2010
+45;Dalarnas l�n;Dongfeng Motor;26/02/2012
+65;Stockholms l�n;BMW;23/11/2015
+98;�sterg�tlands l�n;Daihatsu;06/02/2018
+8;J�nk�pings l�n;RAM Trucks;30/05/2018
+99;V�stra G�talands l�n;Daimler;28/07/2016
+81;V�stra G�talands l�n;Nissan;02/07/2015
+45;V�stra G�talands l�n;Jeep;12/07/2013
+97;J�nk�pings l�n;Kenworth;02/09/2018
+38;Stockholms l�n;RAM Trucks;12/09/2010
+49;Stockholms l�n;Fiat;26/06/2015
+21;V�stra G�talands l�n;Lincoln;04/01/2012
+58;Stockholms l�n;Lincoln;10/11/2016
+38;V�stra G�talands l�n;FAW;09/05/2013
+51;Stockholms l�n;Mahindra and Mahindra;22/12/2016
+48;Dalarnas l�n;Seat;06/08/2015
+58;Dalarnas l�n;Ferrari;11/08/2018
+70;G�vleborgs l�n;Skoda;03/10/2015
+1;V�stra G�talands l�n;MINI;15/04/2014
+37;Dalarnas l�n;Infiniti;15/11/2013
+81;G�vleborgs l�n;Lexus;21/04/2015
+92;V�stra G�talands l�n;Volkswagen;31/12/2018
+59;Stockholms l�n;Citro�n;06/09/2015
+75;J�nk�pings l�n;Mitsubishi Motors;27/05/2014
+58;�sterg�tlands l�n;Volvo;09/03/2010
+60;V�stra G�talands l�n;Suzuki;04/08/2014
+83;Stockholms l�n;Porsche;05/06/2010
+17;J�nk�pings l�n;Porsche;01/11/2011
+10;Stockholms l�n;Chevrolet;19/11/2012
+70;V�stra G�talands l�n;Lincoln;07/09/2011
+42;G�vleborgs l�n;Tata Motors;25/10/2015
+12;�sterg�tlands l�n;Kia Motors;09/10/2013
+92;Stockholms l�n;RAM Trucks;22/06/2013
+29;V�stra G�talands l�n;BMW;07/07/2012
+75;Stockholms l�n;Dongfeng Motor;18/12/2016
+10;J�nk�pings l�n;Volvo;28/04/2018
+84;�sterg�tlands l�n;Vauxhall;15/03/2013
+82;J�nk�pings l�n;Audi;25/02/2010
+73;Stockholms l�n;Chevrolet;12/01/2013
+10;Stockholms l�n;RAM Trucks;16/12/2013
+92;V�stra G�talands l�n;Lexus;29/05/2014
+73;G�vleborgs l�n;Volkswagen;10/07/2010
+98;J�nk�pings l�n;Mazda;26/08/2017
+18;Stockholms l�n;Audi;04/12/2017
+83;Stockholms l�n;Lincoln;03/07/2016
+54;V�stra G�talands l�n;Kia Motors;30/01/2011
+57;Dalarnas l�n;Lexus;02/01/2016
+89;Stockholms l�n;Lexus;12/11/2014
+86;Stockholms l�n;Tata Motors;07/08/2013
+89;Stockholms l�n;Lincoln;20/03/2017
+42;Dalarnas l�n;Peugeot;12/09/2013
+94;�sterg�tlands l�n;Dacia;23/07/2010
+15;V�stra G�talands l�n;Chevrolet;30/08/2013
+93;V�stra G�talands l�n;Vauxhall;25/07/2012
+27;Stockholms l�n;General Motors;17/02/2013
+52;Stockholms l�n;Nissan;18/08/2017
+26;V�stra G�talands l�n;Seat;06/04/2015
+55;Stockholms l�n;Porsche;30/06/2010
+82;J�nk�pings l�n;Seat;03/11/2014
+76;Dalarnas l�n;Hyundai Motors;30/05/2010
+93;�sterg�tlands l�n;General Motors;17/09/2017
+33;Stockholms l�n;Mazda;16/07/2016
+63;Stockholms l�n;Nissan;14/07/2014
+68;V�stra G�talands l�n;GMC;06/10/2017
+4;Stockholms l�n;Renault;02/04/2015
+7;V�stra G�talands l�n;Mercedes-Benz;22/05/2014
+46;Dalarnas l�n;Chevrolet;31/03/2011
+94;J�nk�pings l�n;Nissan;18/08/2010
+88;V�stra G�talands l�n;Mercedes-Benz;28/08/2015
+68;Stockholms l�n;Daimler;24/11/2011
+37;Stockholms l�n;Volkswagen;05/10/2015
+23;J�nk�pings l�n;Kenworth;30/05/2016
+10;G�vleborgs l�n;FAW;30/01/2011
+96;J�nk�pings l�n;Dodge;12/03/2018
+83;Stockholms l�n;JLR;07/08/2010
+40;Stockholms l�n;Porsche;19/01/2017
+76;J�nk�pings l�n;Buick;10/07/2013
+20;Stockholms l�n;Toyota;21/11/2013
+76;Stockholms l�n;Ford;15/09/2013
+12;V�stra G�talands l�n;Lexus;11/09/2011
+38;V�stra G�talands l�n;Acura;26/12/2014
+9;J�nk�pings l�n;Lexus;25/06/2017
+15;Stockholms l�n;Kia Motors;17/08/2014
+32;Stockholms l�n;Buick;21/11/2011
+15;J�nk�pings l�n;Smart;15/05/2015
+14;J�nk�pings l�n;Dodge;13/08/2011
+65;V�stra G�talands l�n;Ferrari;23/05/2018
+37;Stockholms l�n;Seat;23/08/2015
+67;Stockholms l�n;Seat;20/12/2018
+42;V�stra G�talands l�n;Isuzu;17/05/2014
+59;G�vleborgs l�n;Audi;26/08/2018
+77;V�stra G�talands l�n;Infiniti;15/11/2014
+20;V�stra G�talands l�n;Suzuki;20/04/2010
+14;V�stra G�talands l�n;Tata Motors;20/04/2011
+27;Stockholms l�n;Audi;19/07/2012
+47;Stockholms l�n;Hyundai Motors;28/06/2011
+85;J�nk�pings l�n;Nissan;25/11/2017
+99;Stockholms l�n;FAW;17/12/2011
+81;V�stra G�talands l�n;GMC;26/02/2013
+38;�sterg�tlands l�n;Daimler;04/01/2012
+50;G�vleborgs l�n;Chrysler;23/09/2014
+78;V�stra G�talands l�n;Smart;12/03/2013
+77;Stockholms l�n;Chrysler;10/03/2012
+73;Stockholms l�n;Mahindra and Mahindra;02/05/2013
+3;Stockholms l�n;JLR;28/09/2013
+13;�sterg�tlands l�n;Mitsubishi Motors;15/12/2011
+87;Stockholms l�n;Lincoln;25/03/2016
+1;�sterg�tlands l�n;Mercedes-Benz;09/10/2016
+90;Stockholms l�n;Lexus;03/01/2011
+1;Stockholms l�n;Chrysler;08/10/2012
+49;Stockholms l�n;Ferrari;23/11/2018
+12;Stockholms l�n;Dodge;01/06/2015
+15;J�nk�pings l�n;Subaru;08/10/2013
+48;V�stra G�talands l�n;Acura;07/01/2017
+55;V�stra G�talands l�n;Maruti Suzuki;22/03/2016
+5;Stockholms l�n;Dongfeng Motor;12/04/2010
+93;V�stra G�talands l�n;Chevrolet;28/07/2012
+76;J�nk�pings l�n;Maruti Suzuki;20/05/2010
+95;G�vleborgs l�n;Maruti Suzuki;20/07/2015
+8;V�stra G�talands l�n;Chrysler;11/05/2016
+26;Dalarnas l�n;Audi;20/04/2017
+3;Stockholms l�n;Infiniti;26/07/2016
+67;Stockholms l�n;Mitsubishi Motors;23/08/2015
+10;�sterg�tlands l�n;Daihatsu;23/03/2014
+56;V�stra G�talands l�n;FAW;03/03/2011
+93;J�nk�pings l�n;Chrysler;20/03/2015
+15;J�nk�pings l�n;MINI;01/10/2011
+88;Stockholms l�n;Buick;01/09/2011
+46;V�stra G�talands l�n;Peugeot;27/12/2018
+38;Stockholms l�n;Volvo;09/09/2014
+63;�sterg�tlands l�n;Citro�n;13/10/2011
+1;J�nk�pings l�n;Mitsubishi Motors;06/05/2016
+33;V�stra G�talands l�n;Porsche;06/11/2015
+9;V�stra G�talands l�n;Peugeot;11/04/2014
+50;V�stra G�talands l�n;Citro�n;30/05/2016
+44;Stockholms l�n;Suzuki;17/09/2014
+4;J�nk�pings l�n;Skoda;11/05/2011
+1;Stockholms l�n;Volkswagen;11/08/2017
+73;Stockholms l�n;Mercedes-Benz;10/07/2014
+2;Stockholms l�n;GMC;24/04/2017
+23;G�vleborgs l�n;MINI;27/07/2011
+48;J�nk�pings l�n;Kia Motors;06/12/2018
+60;Stockholms l�n;Daihatsu;17/05/2011
+87;Stockholms l�n;Lincoln;27/10/2010
+65;V�stra G�talands l�n;Chrysler;09/04/2016
+74;V�stra G�talands l�n;Dodge;15/01/2013
+83;Stockholms l�n;Lexus;01/09/2014
+24;G�vleborgs l�n;Citro�n;13/05/2018
+29;G�vleborgs l�n;RAM Trucks;06/09/2016
+60;�sterg�tlands l�n;Acura;23/01/2016
+9;V�stra G�talands l�n;Subaru;30/10/2015
+100;J�nk�pings l�n;Acura;06/07/2012
+71;V�stra G�talands l�n;Nissan;22/02/2013
+15;V�stra G�talands l�n;JLR;06/08/2010
+49;V�stra G�talands l�n;Acura;10/09/2010
+99;G�vleborgs l�n;Skoda;25/12/2011
+56;�sterg�tlands l�n;Mitsubishi Motors;09/09/2018
+44;�sterg�tlands l�n;Volvo;19/07/2015
+67;Stockholms l�n;Kenworth;07/04/2017
+20;V�stra G�talands l�n;Mercedes-Benz;06/02/2013
+56;Dalarnas l�n;General Motors;31/03/2014
+29;Stockholms l�n;Honda;19/09/2012
+32;J�nk�pings l�n;Daimler;17/09/2013
+47;V�stra G�talands l�n;Citro�n;09/10/2017
+24;J�nk�pings l�n;Subaru;14/05/2012
+4;�sterg�tlands l�n;Smart;07/08/2011
+75;G�vleborgs l�n;Daimler;31/12/2012
+92;J�nk�pings l�n;Audi;15/01/2016
+68;Stockholms l�n;Mahindra and Mahindra;29/07/2018
+1;V�stra G�talands l�n;Renault;03/11/2018
+96;V�stra G�talands l�n;BMW;07/11/2011
+92;V�stra G�talands l�n;General Motors;01/09/2013
+36;Stockholms l�n;Isuzu;27/05/2014
+45;Stockholms l�n;Mazda;10/11/2010
+46;V�stra G�talands l�n;Hyundai Motors;17/07/2013
+64;Stockholms l�n;Chevrolet;20/03/2010
+40;J�nk�pings l�n;Skoda;12/07/2015
+4;J�nk�pings l�n;Mitsubishi Motors;03/09/2016
+99;Stockholms l�n;Fiat;22/05/2010
+5;Stockholms l�n;Isuzu;18/03/2014
+56;�sterg�tlands l�n;Mercedes-Benz;20/05/2012
+56;J�nk�pings l�n;Ford;28/10/2017
+19;J�nk�pings l�n;Mazda;07/07/2014
+37;Stockholms l�n;Acura;08/09/2014
+32;V�stra G�talands l�n;Vauxhall;08/07/2013
+48;V�stra G�talands l�n;Mercedes-Benz;24/01/2013
+23;V�stra G�talands l�n;Volvo;16/08/2012
+55;V�stra G�talands l�n;Fiat;14/05/2013
+69;V�stra G�talands l�n;BMW;30/09/2016
+60;Stockholms l�n;Daimler;10/04/2014
+51;J�nk�pings l�n;Mazda;13/03/2011
+78;V�stra G�talands l�n;Mercedes-Benz;16/11/2018
+14;Stockholms l�n;Citro�n;08/05/2011
+9;�sterg�tlands l�n;General Motors;03/04/2017
+14;Dalarnas l�n;Mercedes-Benz;11/09/2013
+40;Stockholms l�n;Honda;04/05/2011
+52;Stockholms l�n;Renault;12/02/2016
+74;Stockholms l�n;Maruti Suzuki;28/09/2017
+26;Dalarnas l�n;Ford;23/11/2016
+82;Stockholms l�n;Subaru;01/04/2015
+67;J�nk�pings l�n;Volvo;25/01/2012
+24;V�stra G�talands l�n;Porsche;15/05/2010
+37;Stockholms l�n;GMC;02/09/2015
+1;G�vleborgs l�n;Vauxhall;27/01/2017
+90;Stockholms l�n;Volkswagen;28/08/2017
+60;J�nk�pings l�n;BMW;21/11/2016
+52;�sterg�tlands l�n;Kenworth;02/01/2011
+38;Stockholms l�n;RAM Trucks;23/11/2010
+34;�sterg�tlands l�n;Hyundai Motors;19/12/2017
+81;V�stra G�talands l�n;Mitsubishi Motors;05/05/2013
+89;Stockholms l�n;Dacia;13/09/2011
+76;Stockholms l�n;Lexus;02/07/2018
+5;Stockholms l�n;Chevrolet;30/01/2016
+56;Dalarnas l�n;Honda;19/08/2011
+69;Stockholms l�n;JLR;28/04/2013
+86;Dalarnas l�n;GMC;02/07/2018
+47;Stockholms l�n;Seat;07/05/2011
+2;J�nk�pings l�n;Skoda;06/08/2014
+60;V�stra G�talands l�n;Lincoln;09/11/2018
+45;V�stra G�talands l�n;Mercedes-Benz;20/12/2018
+22;V�stra G�talands l�n;Volvo;21/03/2017
+48;J�nk�pings l�n;Kenworth;24/10/2011
+34;Stockholms l�n;Volkswagen;19/08/2011
+16;Stockholms l�n;Fiat;14/08/2017
+64;G�vleborgs l�n;Chevrolet;27/04/2016
+29;Stockholms l�n;Toyota;14/07/2017
+32;Dalarnas l�n;Citro�n;13/08/2013
+77;Stockholms l�n;Daihatsu;16/12/2012
+59;Stockholms l�n;Chrysler;30/09/2011
+43;Stockholms l�n;Kenworth;24/03/2013
+3;G�vleborgs l�n;Skoda;29/11/2018
+20;Stockholms l�n;Cadillac;06/01/2014
+66;Stockholms l�n;Chevrolet;21/05/2018
+77;J�nk�pings l�n;Smart;05/01/2015
+99;Dalarnas l�n;Ferrari;30/06/2015
+17;J�nk�pings l�n;Kia Motors;26/04/2015
+16;Stockholms l�n;Honda;25/02/2010
+54;Stockholms l�n;Nissan;28/01/2014
+38;V�stra G�talands l�n;Renault;26/05/2010
+56;Stockholms l�n;Kia Motors;18/03/2013
+37;�sterg�tlands l�n;Renault;10/11/2014
+63;Stockholms l�n;MINI;18/02/2012
+55;Stockholms l�n;Hyundai Motors;24/02/2017
+60;Stockholms l�n;GMC;22/03/2013
+45;Stockholms l�n;Chevrolet;27/01/2014
+64;Dalarnas l�n;Volvo;18/01/2016
+25;G�vleborgs l�n;Mazda;16/12/2016
+28;Stockholms l�n;Honda;30/10/2013
+83;Stockholms l�n;Ford;28/01/2018
+93;J�nk�pings l�n;Audi;05/03/2015
+68;V�stra G�talands l�n;Peugeot;27/12/2018
+57;J�nk�pings l�n;Tata Motors;23/11/2012
+55;Stockholms l�n;Seat;15/05/2010
+45;V�stra G�talands l�n;Mercedes-Benz;17/12/2011
+18;G�vleborgs l�n;Fiat;16/11/2014
+51;V�stra G�talands l�n;Isuzu;24/11/2010
+52;J�nk�pings l�n;Kia Motors;06/02/2013
+34;Stockholms l�n;Mercedes-Benz;17/05/2017
+12;Stockholms l�n;General Motors;14/12/2011
+15;V�stra G�talands l�n;Jeep;26/02/2015
+85;V�stra G�talands l�n;Ford;22/06/2014
+28;V�stra G�talands l�n;Acura;21/08/2018
+57;Stockholms l�n;Isuzu;21/10/2016
+93;G�vleborgs l�n;Mercedes-Benz;04/04/2018
+86;Stockholms l�n;Nissan;27/11/2011
+39;Stockholms l�n;Volkswagen;30/12/2010
+90;�sterg�tlands l�n;Audi;20/02/2011
+73;�sterg�tlands l�n;FAW;22/04/2012
+63;Stockholms l�n;Skoda;19/05/2011
+9;J�nk�pings l�n;Audi;11/06/2018
+10;V�stra G�talands l�n;Isuzu;17/03/2017
+74;G�vleborgs l�n;BMW;19/04/2016
+83;V�stra G�talands l�n;Peugeot;23/01/2015
+56;V�stra G�talands l�n;Nissan;25/03/2012
+12;�sterg�tlands l�n;Lincoln;11/01/2013
+42;V�stra G�talands l�n;Kia Motors;28/11/2015
+81;Stockholms l�n;Skoda;03/06/2014
+41;Stockholms l�n;Kenworth;29/10/2013
+54;V�stra G�talands l�n;Daihatsu;23/01/2016
+10;Stockholms l�n;Mitsubishi Motors;27/05/2010
+60;Stockholms l�n;Acura;04/01/2011
+13;V�stra G�talands l�n;BMW;16/02/2014
+61;Stockholms l�n;Maruti Suzuki;04/05/2012
+12;Stockholms l�n;Subaru;03/04/2012
+58;Stockholms l�n;Skoda;06/02/2014
+78;Dalarnas l�n;Lincoln;13/01/2015
+15;J�nk�pings l�n;Suzuki;05/06/2012
+70;�sterg�tlands l�n;Renault;05/11/2010
+43;V�stra G�talands l�n;Honda;09/03/2010
+80;V�stra G�talands l�n;General Motors;04/08/2014
+56;�sterg�tlands l�n;Peugeot;01/03/2010
+50;Stockholms l�n;Tata Motors;19/05/2011
+61;V�stra G�talands l�n;Cadillac;09/04/2015
+35;V�stra G�talands l�n;Citro�n;07/01/2013
+51;�sterg�tlands l�n;Skoda;15/12/2012
+42;G�vleborgs l�n;Chevrolet;22/09/2018
+45;Stockholms l�n;Dodge;03/02/2016
+11;V�stra G�talands l�n;Tata Motors;26/08/2017
+67;V�stra G�talands l�n;Volvo;29/04/2017
+37;G�vleborgs l�n;Chevrolet;08/08/2015
+56;V�stra G�talands l�n;Vauxhall;03/08/2015
+25;Dalarnas l�n;Buick;18/08/2015
+17;J�nk�pings l�n;RAM Trucks;17/09/2018
+52;V�stra G�talands l�n;Smart;02/12/2016
+44;V�stra G�talands l�n;Seat;27/11/2014
+37;�sterg�tlands l�n;BMW;23/03/2016
+61;Stockholms l�n;Infiniti;29/10/2011
+9;Stockholms l�n;Vauxhall;21/05/2011
+57;J�nk�pings l�n;Ford;27/06/2014
+59;Stockholms l�n;Porsche;16/02/2016
+58;G�vleborgs l�n;RAM Trucks;21/05/2015
+28;Stockholms l�n;Peugeot;06/06/2016
+30;V�stra G�talands l�n;Seat;16/11/2013
+65;J�nk�pings l�n;FAW;19/02/2017
+19;G�vleborgs l�n;Lincoln;23/01/2017
+72;V�stra G�talands l�n;Lexus;15/02/2011
+4;J�nk�pings l�n;Tata Motors;09/07/2011
+3;V�stra G�talands l�n;Kenworth;16/07/2010
+39;Stockholms l�n;RAM Trucks;09/01/2011
+43;G�vleborgs l�n;Vauxhall;31/08/2015
+69;V�stra G�talands l�n;Smart;30/03/2017
+90;�sterg�tlands l�n;Toyota;19/06/2018
+13;V�stra G�talands l�n;Toyota;17/04/2010
+84;�sterg�tlands l�n;Dacia;25/10/2018
+50;Stockholms l�n;Suzuki;15/09/2012
+8;�sterg�tlands l�n;Peugeot;18/10/2015
+57;J�nk�pings l�n;MINI;13/01/2015
+95;V�stra G�talands l�n;Suzuki;03/10/2013
+49;J�nk�pings l�n;Ferrari;23/03/2017
+94;Stockholms l�n;Chevrolet;11/08/2010
+65;Stockholms l�n;Mahindra and Mahindra;23/02/2017
+15;Stockholms l�n;Dacia;04/09/2013
+32;Stockholms l�n;Volvo;15/10/2018
+5;�sterg�tlands l�n;Nissan;06/12/2015
+54;J�nk�pings l�n;Ferrari;30/09/2011
+42;V�stra G�talands l�n;Ford;02/04/2017
+34;V�stra G�talands l�n;FAW;20/10/2015
+61;V�stra G�talands l�n;Subaru;15/07/2011
+82;V�stra G�talands l�n;Chevrolet;15/12/2016
+28;Stockholms l�n;Volvo;28/04/2017
+86;J�nk�pings l�n;Peugeot;05/01/2015
+58;V�stra G�talands l�n;Acura;04/11/2013
+78;�sterg�tlands l�n;Daimler;29/04/2011
+24;V�stra G�talands l�n;Dacia;30/06/2011
+91;V�stra G�talands l�n;JLR;13/07/2014
+87;Stockholms l�n;JLR;28/10/2015
+31;Stockholms l�n;Peugeot;13/01/2013
+56;Stockholms l�n;Maruti Suzuki;05/07/2015
+63;Stockholms l�n;Daimler;11/12/2016
+14;J�nk�pings l�n;Audi;24/12/2016
+2;V�stra G�talands l�n;Buick;22/02/2011
+90;V�stra G�talands l�n;Maruti Suzuki;07/07/2017
+3;J�nk�pings l�n;Suzuki;19/10/2011
+52;Stockholms l�n;Buick;23/04/2017
+2;Stockholms l�n;Subaru;01/12/2013
+52;Stockholms l�n;Daihatsu;04/07/2011
+72;V�stra G�talands l�n;Ford;27/12/2015
+61;Stockholms l�n;Daihatsu;15/01/2017
+24;G�vleborgs l�n;Volkswagen;10/12/2011
+72;V�stra G�talands l�n;FAW;21/02/2011
+80;Stockholms l�n;Hyundai Motors;20/09/2012
+14;J�nk�pings l�n;Mitsubishi Motors;12/08/2018
+89;Stockholms l�n;Cadillac;03/07/2016
+30;Stockholms l�n;Fiat;23/08/2017
+30;V�stra G�talands l�n;Citro�n;17/04/2017
+81;�sterg�tlands l�n;Seat;15/10/2011
+7;V�stra G�talands l�n;Kia Motors;03/05/2014
+8;Stockholms l�n;Chrysler;08/11/2013
+29;Stockholms l�n;Renault;25/12/2010
+40;J�nk�pings l�n;JLR;24/08/2011
+74;V�stra G�talands l�n;MINI;07/10/2013
+54;Stockholms l�n;Honda;21/12/2017
+52;�sterg�tlands l�n;Lexus;07/11/2010
+35;G�vleborgs l�n;Buick;24/08/2014
+45;V�stra G�talands l�n;GMC;23/02/2013
+71;V�stra G�talands l�n;GMC;20/05/2012
+94;�sterg�tlands l�n;Nissan;26/12/2015
+96;�sterg�tlands l�n;Seat;07/09/2015
+75;�sterg�tlands l�n;Mitsubishi Motors;27/10/2010
+59;Stockholms l�n;Skoda;10/09/2015
+23;Stockholms l�n;Nissan;29/07/2010
+46;G�vleborgs l�n;Tata Motors;12/03/2010
+65;�sterg�tlands l�n;Tata Motors;01/07/2010
+59;V�stra G�talands l�n;General Motors;12/03/2011
+21;V�stra G�talands l�n;Buick;22/03/2010
+98;�sterg�tlands l�n;Isuzu;05/08/2013
+7;Stockholms l�n;Fiat;05/07/2015
+71;Stockholms l�n;Acura;10/09/2012
+74;Dalarnas l�n;RAM Trucks;21/01/2017
+18;V�stra G�talands l�n;Volvo;16/10/2016
+49;G�vleborgs l�n;RAM Trucks;25/03/2014
+24;Stockholms l�n;Ferrari;28/08/2013
+80;Stockholms l�n;Tata Motors;05/12/2017
+94;�sterg�tlands l�n;BMW;02/09/2013
+75;�sterg�tlands l�n;Lexus;25/09/2013
+18;V�stra G�talands l�n;Daihatsu;27/06/2010
+50;J�nk�pings l�n;Infiniti;28/09/2016
+20;V�stra G�talands l�n;Citro�n;15/07/2016
+21;J�nk�pings l�n;Volkswagen;03/12/2017
+86;J�nk�pings l�n;JLR;13/04/2013
+1;J�nk�pings l�n;JLR;11/04/2013
+97;G�vleborgs l�n;Cadillac;04/06/2018
+88;Stockholms l�n;Daihatsu;01/03/2010
+27;V�stra G�talands l�n;Lincoln;16/08/2012
+89;Dalarnas l�n;Citro�n;14/07/2014
+25;V�stra G�talands l�n;Hyundai Motors;23/09/2010
+64;G�vleborgs l�n;Dacia;06/05/2011
+7;Stockholms l�n;Seat;17/11/2012
+66;G�vleborgs l�n;Peugeot;17/09/2011
+68;Stockholms l�n;Infiniti;28/12/2010
+72;G�vleborgs l�n;Dongfeng Motor;03/05/2011
+2;Stockholms l�n;Lexus;08/06/2016
+37;�sterg�tlands l�n;Skoda;26/04/2013
+96;J�nk�pings l�n;FAW;07/07/2016
+17;G�vleborgs l�n;Suzuki;18/01/2016
+38;V�stra G�talands l�n;Skoda;07/11/2015
+3;Stockholms l�n;Infiniti;20/10/2011
+76;J�nk�pings l�n;Lexus;03/04/2012
+94;Dalarnas l�n;Dacia;17/06/2014
+67;Stockholms l�n;Dacia;24/04/2011
+71;V�stra G�talands l�n;Volvo;29/10/2017
+49;V�stra G�talands l�n;Cadillac;22/07/2010
+51;Stockholms l�n;Nissan;15/10/2014
+62;Stockholms l�n;General Motors;09/09/2017
+53;Dalarnas l�n;Isuzu;16/05/2018
+87;J�nk�pings l�n;JLR;27/02/2016
+77;J�nk�pings l�n;Daimler;04/06/2012
+90;V�stra G�talands l�n;Honda;11/06/2010
+11;J�nk�pings l�n;Daihatsu;13/02/2013
+48;Dalarnas l�n;Honda;30/03/2010
+1;Stockholms l�n;Dodge;30/12/2015
+88;V�stra G�talands l�n;Acura;18/02/2017
+83;V�stra G�talands l�n;Daimler;08/08/2017
+39;V�stra G�talands l�n;BMW;04/03/2014
+82;Dalarnas l�n;Dodge;01/09/2011
+7;V�stra G�talands l�n;Daimler;15/03/2010
+17;Stockholms l�n;GMC;04/12/2014
+3;Stockholms l�n;Dodge;14/11/2011
+78;Stockholms l�n;Isuzu;21/12/2013
+45;V�stra G�talands l�n;Daimler;08/07/2015
+55;Stockholms l�n;RAM Trucks;03/08/2012
+74;J�nk�pings l�n;Mercedes-Benz;14/06/2012
+49;J�nk�pings l�n;Daimler;30/12/2014
+92;V�stra G�talands l�n;MINI;13/03/2017
+74;G�vleborgs l�n;BMW;03/03/2016
+24;�sterg�tlands l�n;Citro�n;07/12/2017
+50;Dalarnas l�n;Volkswagen;06/01/2016
+6;Dalarnas l�n;Seat;20/06/2015
+72;V�stra G�talands l�n;Fiat;25/06/2018
+93;�sterg�tlands l�n;Fiat;16/08/2011
+39;Stockholms l�n;Dongfeng Motor;19/08/2016
+71;J�nk�pings l�n;Chevrolet;23/11/2015
+93;J�nk�pings l�n;FAW;11/03/2015
+5;Stockholms l�n;FAW;20/01/2014
+54;V�stra G�talands l�n;Chevrolet;14/10/2010
+3;Dalarnas l�n;Lincoln;10/03/2012
+90;�sterg�tlands l�n;Vauxhall;11/09/2011
+26;Stockholms l�n;RAM Trucks;16/09/2018
+53;�sterg�tlands l�n;Mazda;20/10/2011
+55;Stockholms l�n;GMC;12/02/2011
+27;G�vleborgs l�n;Maruti Suzuki;17/04/2014
+11;�sterg�tlands l�n;Subaru;01/08/2012
+1;�sterg�tlands l�n;Kenworth;17/01/2012
+93;�sterg�tlands l�n;Isuzu;17/08/2012
+2;V�stra G�talands l�n;Cadillac;10/03/2012
+4;V�stra G�talands l�n;Renault;19/09/2018
+38;V�stra G�talands l�n;Suzuki;01/09/2010
+1;Stockholms l�n;Smart;24/10/2015
+13;�sterg�tlands l�n;Mazda;13/07/2010
+31;Stockholms l�n;Honda;15/01/2018
+26;V�stra G�talands l�n;Dodge;15/02/2011
+25;Stockholms l�n;FAW;12/06/2018
+15;Stockholms l�n;BMW;14/03/2012
+84;Stockholms l�n;Honda;22/11/2017
+82;Stockholms l�n;FAW;29/08/2011
+50;V�stra G�talands l�n;Mazda;31/03/2011
+75;Stockholms l�n;Dacia;26/01/2013
+94;Stockholms l�n;Daihatsu;21/09/2010
+28;�sterg�tlands l�n;Buick;17/09/2010
+42;V�stra G�talands l�n;Mercedes-Benz;13/11/2012
+5;J�nk�pings l�n;Maruti Suzuki;03/04/2013
+43;V�stra G�talands l�n;Volkswagen;27/12/2012
+80;V�stra G�talands l�n;JLR;02/12/2017
+4;Dalarnas l�n;Ferrari;12/08/2015
+8;G�vleborgs l�n;MINI;09/03/2018
+41;Stockholms l�n;JLR;14/01/2010
+43;Stockholms l�n;Renault;23/08/2010
+40;V�stra G�talands l�n;Audi;13/07/2011
+48;�sterg�tlands l�n;Volvo;22/12/2015
+44;J�nk�pings l�n;Lincoln;18/04/2012
+67;V�stra G�talands l�n;Acura;12/07/2014
+97;J�nk�pings l�n;Subaru;29/03/2010
+91;Stockholms l�n;Fiat;12/01/2010
+1;J�nk�pings l�n;Kenworth;22/12/2016
+95;V�stra G�talands l�n;Lincoln;25/02/2015
+74;�sterg�tlands l�n;Toyota;12/04/2012
+5;Stockholms l�n;GMC;28/06/2012
+49;V�stra G�talands l�n;Lincoln;18/06/2016
+37;Stockholms l�n;Mercedes-Benz;28/01/2018
+23;�sterg�tlands l�n;Hyundai Motors;04/11/2013
+47;V�stra G�talands l�n;Chrysler;17/07/2018
+52;Stockholms l�n;Vauxhall;26/04/2017
+14;�sterg�tlands l�n;Vauxhall;01/11/2016
+38;J�nk�pings l�n;Renault;24/06/2012
+92;V�stra G�talands l�n;Citro�n;22/09/2017
+17;Stockholms l�n;Subaru;12/10/2011
+80;�sterg�tlands l�n;Honda;30/09/2015
+74;Dalarnas l�n;Nissan;05/03/2014
+98;G�vleborgs l�n;Fiat;12/07/2016
+100;�sterg�tlands l�n;Hyundai Motors;19/09/2018
+82;Stockholms l�n;Acura;10/10/2017
+78;J�nk�pings l�n;Subaru;12/11/2018
+62;G�vleborgs l�n;Chevrolet;05/08/2016
+38;Stockholms l�n;Buick;28/10/2018
+52;�sterg�tlands l�n;Buick;08/02/2018
+62;J�nk�pings l�n;Dodge;08/05/2010
+38;Stockholms l�n;Mitsubishi Motors;03/10/2014
+23;V�stra G�talands l�n;Ford;16/10/2010
+13;V�stra G�talands l�n;Daihatsu;29/08/2014
+14;�sterg�tlands l�n;Porsche;14/03/2017
+78;V�stra G�talands l�n;Infiniti;01/12/2014
+8;Stockholms l�n;Skoda;10/08/2015
+73;V�stra G�talands l�n;Mazda;22/08/2018
+66;V�stra G�talands l�n;Daihatsu;18/04/2012
+28;V�stra G�talands l�n;FAW;20/01/2018
+49;Stockholms l�n;Infiniti;19/11/2017
+48;Stockholms l�n;Mazda;07/07/2013
+4;V�stra G�talands l�n;Mitsubishi Motors;26/04/2015
+42;J�nk�pings l�n;Nissan;09/09/2010
+11;Stockholms l�n;Ford;15/04/2013
+70;Stockholms l�n;BMW;09/10/2017
+20;Dalarnas l�n;Renault;29/10/2013
+67;Dalarnas l�n;Dodge;27/02/2016
+100;Dalarnas l�n;Daimler;16/12/2013
+59;Stockholms l�n;Fiat;09/09/2017
+55;V�stra G�talands l�n;Smart;19/05/2017
+50;�sterg�tlands l�n;Dongfeng Motor;01/06/2016
+75;G�vleborgs l�n;FAW;23/09/2013
+42;J�nk�pings l�n;Peugeot;04/06/2016
+65;Stockholms l�n;Ford;19/05/2017
+71;V�stra G�talands l�n;Ford;13/10/2011
+54;V�stra G�talands l�n;Tata Motors;03/02/2015
+32;�sterg�tlands l�n;Fiat;03/04/2016
+30;Stockholms l�n;Citro�n;26/06/2011
+21;V�stra G�talands l�n;Suzuki;19/01/2015
+48;V�stra G�talands l�n;Acura;18/09/2018
+18;V�stra G�talands l�n;Isuzu;01/10/2010
+1;V�stra G�talands l�n;MINI;29/11/2015
+3;Stockholms l�n;RAM Trucks;09/03/2014
+79;V�stra G�talands l�n;Smart;20/02/2015
+85;V�stra G�talands l�n;Suzuki;05/09/2016
+77;Stockholms l�n;Fiat;07/04/2014
+5;J�nk�pings l�n;Fiat;23/02/2016
+24;G�vleborgs l�n;Mahindra and Mahindra;23/11/2011
+67;Stockholms l�n;Kia Motors;10/04/2011
+92;G�vleborgs l�n;Buick;08/04/2018
+4;V�stra G�talands l�n;Skoda;15/09/2011
+95;Stockholms l�n;Chrysler;11/06/2015
+49;G�vleborgs l�n;Seat;09/02/2010
+10;V�stra G�talands l�n;Lexus;11/08/2016
+28;J�nk�pings l�n;Toyota;25/08/2016
+13;Stockholms l�n;Ford;13/12/2016
+21;�sterg�tlands l�n;Mahindra and Mahindra;30/12/2013
+94;V�stra G�talands l�n;Kenworth;03/05/2013
+68;Stockholms l�n;Mitsubishi Motors;04/12/2010
+95;G�vleborgs l�n;GMC;08/04/2017
+7;Stockholms l�n;Subaru;31/07/2018
+39;G�vleborgs l�n;Nissan;31/08/2016
+89;Dalarnas l�n;Lincoln;03/04/2016
+67;Stockholms l�n;Mercedes-Benz;05/07/2014
+2;Dalarnas l�n;Acura;28/08/2016
+87;V�stra G�talands l�n;Suzuki;08/09/2017
+6;Stockholms l�n;Subaru;10/01/2013
+44;Stockholms l�n;Peugeot;03/01/2013
+54;Stockholms l�n;Volvo;28/03/2018
+22;Stockholms l�n;RAM Trucks;03/05/2014
+36;V�stra G�talands l�n;MINI;06/11/2013
+98;V�stra G�talands l�n;Kia Motors;11/08/2016
+73;G�vleborgs l�n;Skoda;12/07/2014
+18;�sterg�tlands l�n;Infiniti;14/03/2014
+36;J�nk�pings l�n;Porsche;14/05/2014
+51;Stockholms l�n;Daihatsu;17/10/2011
+37;V�stra G�talands l�n;Peugeot;08/03/2013
+72;V�stra G�talands l�n;Volkswagen;12/12/2012
+11;Stockholms l�n;Ford;01/02/2011
+85;Dalarnas l�n;Porsche;22/03/2015
+22;V�stra G�talands l�n;Audi;17/08/2014
+49;Stockholms l�n;Volkswagen;16/09/2017
+9;Stockholms l�n;Mitsubishi Motors;24/04/2017
+99;Stockholms l�n;Fiat;08/12/2017
+72;V�stra G�talands l�n;Tata Motors;13/02/2016
+12;Dalarnas l�n;Infiniti;15/01/2013
+31;Dalarnas l�n;Chrysler;23/09/2012
+89;Stockholms l�n;Isuzu;29/04/2013
+76;V�stra G�talands l�n;Acura;13/10/2017
+9;V�stra G�talands l�n;Volkswagen;06/04/2011
+79;Stockholms l�n;Vauxhall;27/10/2010
+42;�sterg�tlands l�n;FAW;30/08/2014
+97;�sterg�tlands l�n;Nissan;13/03/2017
+60;G�vleborgs l�n;Infiniti;05/02/2013
+27;V�stra G�talands l�n;General Motors;20/09/2010
+36;Dalarnas l�n;Chrysler;16/03/2010
+31;Stockholms l�n;Porsche;31/07/2014
+25;�sterg�tlands l�n;Mercedes-Benz;15/12/2018
+33;V�stra G�talands l�n;Subaru;13/11/2010
+91;V�stra G�talands l�n;Ford;07/02/2013
+4;Stockholms l�n;Subaru;01/11/2011
+45;V�stra G�talands l�n;Fiat;03/03/2012
+30;Stockholms l�n;GMC;17/07/2016
+100;G�vleborgs l�n;Dacia;14/08/2015
+55;Dalarnas l�n;Dongfeng Motor;20/11/2015
+81;J�nk�pings l�n;Cadillac;06/03/2018
+79;Stockholms l�n;Tata Motors;29/12/2011
+24;V�stra G�talands l�n;Ford;12/07/2013
+47;Dalarnas l�n;Smart;23/05/2018
+74;J�nk�pings l�n;Volvo;18/09/2011
+70;V�stra G�talands l�n;Chevrolet;12/12/2015
+84;J�nk�pings l�n;FAW;13/04/2018
+19;�sterg�tlands l�n;Renault;04/11/2016
+46;V�stra G�talands l�n;Kenworth;12/11/2017
+79;�sterg�tlands l�n;Porsche;03/03/2011
+66;V�stra G�talands l�n;Kenworth;21/06/2017
+56;Stockholms l�n;Isuzu;04/01/2015
+59;Stockholms l�n;GMC;12/05/2016
+71;V�stra G�talands l�n;Chrysler;19/05/2018
+20;Dalarnas l�n;Kenworth;11/04/2012
+31;�sterg�tlands l�n;JLR;20/04/2013
+40;Stockholms l�n;Mazda;15/07/2018
+28;�sterg�tlands l�n;GMC;02/05/2012
+74;Stockholms l�n;Honda;02/06/2010
+20;Stockholms l�n;Citro�n;12/02/2010
+37;J�nk�pings l�n;Citro�n;23/03/2015
+35;Dalarnas l�n;Hyundai Motors;26/08/2016
+45;Dalarnas l�n;Smart;22/06/2011
+26;G�vleborgs l�n;Mercedes-Benz;28/08/2010
+7;V�stra G�talands l�n;Dongfeng Motor;08/12/2015
+50;G�vleborgs l�n;FAW;17/10/2012
+95;Stockholms l�n;Peugeot;08/03/2017
+51;Stockholms l�n;Infiniti;16/02/2010
+68;V�stra G�talands l�n;Hyundai Motors;15/03/2013
+9;V�stra G�talands l�n;Audi;24/06/2016
+37;Stockholms l�n;Honda;30/01/2010
+21;V�stra G�talands l�n;Chrysler;10/11/2013
+73;G�vleborgs l�n;Hyundai Motors;04/05/2012
+82;V�stra G�talands l�n;Dacia;02/01/2014
+17;J�nk�pings l�n;JLR;26/06/2011
+50;V�stra G�talands l�n;MINI;25/11/2018
+25;Stockholms l�n;Fiat;12/08/2010
+49;Stockholms l�n;Lexus;11/08/2014
+85;�sterg�tlands l�n;Kenworth;26/08/2011
+67;Stockholms l�n;Dacia;19/01/2012
+94;Stockholms l�n;Chrysler;14/09/2017
+74;V�stra G�talands l�n;FAW;26/07/2010
+86;Stockholms l�n;Lincoln;23/09/2018
+81;V�stra G�talands l�n;Daimler;25/09/2016
+89;J�nk�pings l�n;Ford;12/08/2017
+65;V�stra G�talands l�n;Isuzu;22/01/2014
+52;Dalarnas l�n;Daihatsu;17/01/2015
+55;Stockholms l�n;Dongfeng Motor;15/02/2017
+73;Stockholms l�n;Audi;20/03/2011
+100;Stockholms l�n;Chrysler;21/12/2010
+98;J�nk�pings l�n;Audi;03/02/2016
+84;V�stra G�talands l�n;Lexus;29/09/2012
+44;�sterg�tlands l�n;Buick;18/09/2015
+90;�sterg�tlands l�n;Nissan;08/03/2016
+85;Dalarnas l�n;Porsche;07/03/2014
+70;Stockholms l�n;Maruti Suzuki;24/08/2014
+72;G�vleborgs l�n;Suzuki;01/07/2014
+49;G�vleborgs l�n;Dacia;27/12/2012
+12;Stockholms l�n;Kia Motors;16/07/2015
+48;J�nk�pings l�n;Ferrari;10/03/2014
+30;�sterg�tlands l�n;Audi;08/09/2013
+97;J�nk�pings l�n;Daimler;07/02/2017
+44;Dalarnas l�n;BMW;29/09/2016
+71;J�nk�pings l�n;Jeep;03/02/2010
+44;V�stra G�talands l�n;RAM Trucks;10/02/2015
+58;V�stra G�talands l�n;Suzuki;23/04/2015
+1;Stockholms l�n;Infiniti;23/07/2014
+39;V�stra G�talands l�n;Peugeot;21/01/2014
+19;V�stra G�talands l�n;Chrysler;28/04/2017
+43;Dalarnas l�n;Mitsubishi Motors;14/02/2015
+28;�sterg�tlands l�n;Chevrolet;18/10/2016
+98;J�nk�pings l�n;General Motors;07/05/2018
+47;Dalarnas l�n;Dongfeng Motor;28/07/2018
+13;J�nk�pings l�n;Skoda;20/08/2014
+71;Dalarnas l�n;Volkswagen;08/09/2010
+73;V�stra G�talands l�n;Hyundai Motors;03/05/2011
+64;Stockholms l�n;Mitsubishi Motors;10/11/2016
+98;V�stra G�talands l�n;Ferrari;21/05/2017
+44;Dalarnas l�n;Ferrari;16/09/2013
+18;Stockholms l�n;Seat;03/12/2012
+1;�sterg�tlands l�n;Kia Motors;27/04/2016
+1;Stockholms l�n;Dongfeng Motor;11/08/2012
+18;V�stra G�talands l�n;Dongfeng Motor;02/11/2013
+39;J�nk�pings l�n;Nissan;18/02/2017
+72;Dalarnas l�n;Subaru;07/08/2013
+29;G�vleborgs l�n;Honda;26/09/2015
+61;Stockholms l�n;Mazda;16/02/2016
+10;J�nk�pings l�n;Tata Motors;18/09/2018
+92;Stockholms l�n;Kenworth;14/10/2012
+99;Stockholms l�n;Skoda;13/01/2013
+64;Dalarnas l�n;Daihatsu;25/07/2017
+64;Stockholms l�n;Audi;13/04/2018
+67;V�stra G�talands l�n;Volkswagen;07/04/2012
+36;V�stra G�talands l�n;Mercedes-Benz;07/09/2017
+19;�sterg�tlands l�n;Ford;14/03/2011
+70;Stockholms l�n;Kia Motors;20/09/2011
+12;Dalarnas l�n;Smart;26/07/2011
+77;J�nk�pings l�n;Chrysler;27/07/2013
+4;Stockholms l�n;Suzuki;08/09/2017
+14;J�nk�pings l�n;Smart;01/05/2018
+35;Stockholms l�n;Volvo;23/11/2010
+50;Stockholms l�n;Maruti Suzuki;02/12/2014
+8;V�stra G�talands l�n;RAM Trucks;17/12/2011
+75;G�vleborgs l�n;Seat;01/07/2013
+89;V�stra G�talands l�n;Maruti Suzuki;10/01/2010
+91;�sterg�tlands l�n;RAM Trucks;24/03/2014
+52;Stockholms l�n;Toyota;12/10/2014
+35;V�stra G�talands l�n;Seat;09/09/2010
+55;Stockholms l�n;Mahindra and Mahindra;26/02/2017
+78;Dalarnas l�n;Renault;29/01/2015
+11;Stockholms l�n;Volvo;07/06/2013
+26;G�vleborgs l�n;Lexus;09/04/2017
+55;V�stra G�talands l�n;RAM Trucks;20/11/2015
+91;Dalarnas l�n;RAM Trucks;10/06/2015
+69;�sterg�tlands l�n;Buick;27/04/2017
+19;Stockholms l�n;Infiniti;15/12/2016
+50;Stockholms l�n;Porsche;02/07/2013
+1;Dalarnas l�n;Tata Motors;14/02/2014
+48;V�stra G�talands l�n;JLR;08/10/2017
+31;Stockholms l�n;Dacia;10/05/2014
+64;V�stra G�talands l�n;Infiniti;13/12/2010
+3;V�stra G�talands l�n;Citro�n;29/01/2011
+41;Stockholms l�n;Subaru;15/06/2013
+6;J�nk�pings l�n;Porsche;18/10/2010
+99;�sterg�tlands l�n;Mazda;01/06/2011
+81;V�stra G�talands l�n;Kenworth;30/06/2012
+71;V�stra G�talands l�n;Lexus;03/05/2018
+16;Stockholms l�n;BMW;07/07/2010
+46;V�stra G�talands l�n;Peugeot;07/01/2018
+6;Stockholms l�n;Renault;10/05/2016
+34;G�vleborgs l�n;Kenworth;27/06/2015
+61;Stockholms l�n;Seat;31/05/2012
+61;Stockholms l�n;Smart;11/05/2012
+57;Stockholms l�n;Seat;15/01/2010
+35;J�nk�pings l�n;FAW;15/11/2014
+69;V�stra G�talands l�n;Fiat;16/11/2011
+57;�sterg�tlands l�n;Smart;08/12/2013
+50;V�stra G�talands l�n;Daimler;05/11/2014
+41;Stockholms l�n;GMC;15/09/2014
+33;V�stra G�talands l�n;Kia Motors;16/10/2013
+38;J�nk�pings l�n;Volvo;16/01/2012
+12;V�stra G�talands l�n;Citro�n;11/09/2013
+4;�sterg�tlands l�n;Tata Motors;03/04/2012
+24;Stockholms l�n;Lincoln;25/07/2014
+28;V�stra G�talands l�n;Mitsubishi Motors;25/01/2018
+30;J�nk�pings l�n;Acura;20/05/2016
+32;V�stra G�talands l�n;Chrysler;03/11/2013
+55;V�stra G�talands l�n;Smart;01/08/2016
+29;Dalarnas l�n;Tata Motors;05/09/2010
+6;J�nk�pings l�n;Ford;15/11/2015
+55;�sterg�tlands l�n;Isuzu;20/08/2010
+75;J�nk�pings l�n;Chrysler;19/12/2014
+46;Dalarnas l�n;Kia Motors;19/03/2015
+100;Stockholms l�n;Smart;04/03/2010
+79;J�nk�pings l�n;Ford;12/07/2011
+24;�sterg�tlands l�n;Mercedes-Benz;19/04/2014
+95;V�stra G�talands l�n;Isuzu;02/05/2015
+88;Dalarnas l�n;Honda;05/02/2012
+50;V�stra G�talands l�n;Kia Motors;16/03/2015
+46;J�nk�pings l�n;Infiniti;24/05/2018
+66;Stockholms l�n;RAM Trucks;30/06/2018
+13;Stockholms l�n;Mazda;16/06/2014
+48;V�stra G�talands l�n;BMW;22/06/2011
+67;Stockholms l�n;Isuzu;20/09/2011
+92;�sterg�tlands l�n;Mitsubishi Motors;21/09/2010
+97;J�nk�pings l�n;Cadillac;04/07/2015
+2;Stockholms l�n;Seat;29/01/2011
+98;Stockholms l�n;Mahindra and Mahindra;21/02/2016
+20;Stockholms l�n;MINI;10/05/2010
+25;J�nk�pings l�n;Chrysler;10/08/2012
+76;�sterg�tlands l�n;Daimler;31/07/2017
+75;Stockholms l�n;Dongfeng Motor;22/12/2014
+22;Stockholms l�n;Fiat;21/08/2014
+90;�sterg�tlands l�n;Skoda;30/11/2017
+91;V�stra G�talands l�n;Nissan;01/12/2010
+33;V�stra G�talands l�n;Kenworth;12/01/2015
+38;�sterg�tlands l�n;Dongfeng Motor;20/12/2012
+99;Stockholms l�n;Honda;12/10/2015
