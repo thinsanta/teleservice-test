@@ -54,8 +54,8 @@ const companySort = async () =>{
   rl.on('close', () => {
    // Conver object to array so we can sort
     const countsArray = Object.entries(columnCounts);
-    const sortedArrayAscending = countsArray.slice().sort((a, b) => b[1] - a[1]);
-    console.table(sortedArrayAscending);
+    const sortedArrayDesc = countsArray.slice().sort((a, b) => b[1] - a[1]);
+    console.table(sortedArrayDesc);
   });
   
   // Event listener for errors
@@ -73,8 +73,8 @@ const carFirm = () =>{
 
     // Conver object to array so we can sort
     const countsArray = Object.entries(columnCounts);
-    const sortedArrayAscending = countsArray.slice().sort((a, b) => b[1] - a[1]);
-    console.table(sortedArrayAscending);
+    const sortedArrayDesc = countsArray.slice().sort((a, b) => b[1] - a[1]);
+    console.table(sortedArrayDesc);
     
   });
   
